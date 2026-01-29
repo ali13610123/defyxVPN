@@ -1,4 +1,4 @@
-# Defyx VPN
+flutter pub getp# Defyx VPN
 
 A modern, relatively smart, secure, and open-source VPN application built with Flutter, providing free internet access and privacy protection with a fresh user experience.
 
